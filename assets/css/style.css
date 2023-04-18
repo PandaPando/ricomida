@@ -1,0 +1,111 @@
+/* navbar */
+.micolor{
+background-color: #373A3C;
+}
+.text-logo{
+color: #fff;
+font-family: 'Lobster', cursive;
+font-size:25px
+}
+.text-navbar{
+    font-family: 'Cabin', sans-serif;
+}
+/* header */
+header .card-title{
+    font-family: 'Cabin', sans-serif;
+    font-weight: 700;
+    color: #373A3C;
+}
+header .card-text{
+    font-family: 'Cabin', sans-serif;
+    font-weight: 700;
+    color: #373A3C;
+}
+header .btn{
+    font-family: 'Cabin', sans-serif;
+    font-weight: 400;
+    color: #373A3C;
+}
+.cardHeader-tooltip {
+    font-family: 'Cabin', sans-serif;
+    font: 400;
+    --bs-tooltip-bg: #373A3C;
+}
+/* carousel */
+.carousel .carousel-indicators button {
+   width: 15px;
+   height: 15px;
+   border-radius: 100%;
+   background-color: #373A3C31;
+ }
+.carousel .carousel-indicators .active {
+    background-color: #373A3C;
+  }
+  .carousel-indicators {
+    bottom: -55px;
+}
+
+/* list-prep-ingre */
+
+#list-prep-ingre .card-title{
+    font-family: 'Cabin', sans-serif;
+    font-weight:700;
+}
+#list-prep-ingre .item-preparacion{
+    font-family: 'Cabin', sans-serif;
+    font-weight:700;
+}
+#list-prep-ingre .item-ingrediente{
+    font-family: 'Cabin', sans-serif;
+    font-weight:400;
+}
+#list-prep-ingre .card, .list-group-item {
+    border: none;
+  }
+
+/* rec-rel */
+#rec-rel h1{
+    font-family: 'Cabin', sans-serif;
+    font-weight:700;
+    color: #373A3C;
+}
+#rec-rel .card-title{
+    font-family: 'Cabin', sans-serif;
+    font-weight:700;
+    color: #373A3C;
+}
+#rec-rel .card-text{
+    font-family: 'Cabin', sans-serif;
+    font-weight:400;
+    color: #373A3C;
+}
+/* newsletter */
+#newsletter{
+    background-color: #DC3545;
+    height: 33rem;
+}
+#newsletter h1,h3{
+    font-family: 'Cabin', sans-serif;
+    font-weight:700;
+    color: #fff;
+}
+#newsletter .ricomida-text{
+    font-family: 'Lobster', cursive;
+    font-weight:400;
+    color: #fff;
+}
+/* footer */
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 7.8rem;
+    background-color: #373a3c;
+  }
+  
+  footer h3 {
+    font-family: 'Lobster', cursive;
+    font-weight: 400;
+    color: #fff;
+    margin: 0;
+  }
